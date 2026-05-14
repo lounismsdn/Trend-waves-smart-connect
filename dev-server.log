@@ -1,0 +1,317 @@
+
+> trendwaves-smartconnect@0.1.0 dev
+> next dev --turbopack --port 3000
+
+   ▲ Next.js 15.5.18 (Turbopack)
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.9:3000
+   - Environments: .env.local, .env
+
+ ✓ Starting...
+Creating turbopack project {
+  dir: 'C:\\Users\\msdnl\\Documents\\New folder\\trendwaves-smartconnect',
+  testMode: true
+}
+ ✓ Compiled middleware in 73ms
+ ✓ Ready in 1028ms
+ ○ Compiling /login ...
+ ✓ Compiled /login in 1928ms
+ GET /login 200 in 2211ms
+ ○ Compiling /dashboard ...
+ ✓ Compiled /dashboard in 1128ms
+ GET /dashboard 200 in 1224ms
+ GET /dashboard 200 in 100ms
+ GET /login?next=%2Fdashboard 200 in 117ms
+ ✓ Compiled /api/auth/login in 270ms
+ POST /api/auth/login 200 in 6090ms
+ GET /dashboard 200 in 62ms
+ GET /dashboard 200 in 85ms
+ ✓ Compiled /api/analytics/overview in 171ms
+ GET /api/auth/me 200 in 951ms
+ GET /api/auth/me 200 in 757ms
+ GET /api/analytics/overview 200 in 1883ms
+ GET /api/analytics/overview 200 in 951ms
+ ○ Compiling /qr-manager ...
+ ✓ Compiled /qr-manager in 594ms
+ GET /qr-manager 200 in 875ms
+ ✓ Compiled /favicon.ico in 154ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 399ms
+ ✓ Compiled /qr-customizer in 486ms
+ GET /qr-customizer 200 in 544ms
+ GET /api/auth/me 200 in 13727ms
+ GET /api/auth/me 200 in 1094ms
+ GET /api/qr 200 in 14824ms
+ GET /api/auth/me 200 in 1259ms
+ ✓ Compiled /api/qr/create in 338ms
+ POST /api/qr/create 201 in 2974ms
+ ✓ Compiled /campaigns in 420ms
+ GET /campaigns 200 in 477ms
+ GET /api/auth/me 200 in 4341ms
+ GET /api/auth/me 200 in 1573ms
+ ✓ Compiled /analytics in 417ms
+ GET /analytics 200 in 474ms
+ GET /api/auth/me 200 in 1220ms
+ GET /api/auth/me 200 in 1118ms
+ ✓ Compiled /nfc-manager in 382ms
+ GET /nfc-manager 200 in 436ms
+ ✓ Compiled /api/nfc in 100ms
+ GET /api/auth/me 200 in 971ms
+ GET /api/nfc 200 in 1903ms
+ GET /api/auth/me 200 in 1029ms
+ GET /api/nfc 200 in 2308ms
+ GET /qr-manager 200 in 64ms
+ GET /api/auth/me 200 in 2028ms
+ GET /api/qr 200 in 2655ms
+ GET /api/auth/me 200 in 719ms
+ GET /api/qr 200 in 1085ms
+ POST /api/qr/create 201 in 1744ms
+ GET /dashboard 200 in 76ms
+ GET /api/auth/me 200 in 1456ms
+ GET /api/auth/me 200 in 859ms
+ GET /api/analytics/overview 200 in 2485ms
+ GET /qr-manager 200 in 65ms
+ GET /api/analytics/overview 200 in 1442ms
+ GET /api/auth/me 200 in 798ms
+ GET /api/qr 200 in 1226ms
+ GET /api/auth/me 200 in 753ms
+ GET /api/qr 200 in 1077ms
+ ✓ Compiled /client-portal in 400ms
+ GET /client-portal 200 in 475ms
+ GET /qr-customizer 200 in 82ms
+ GET /api/auth/me 200 in 1014ms
+ GET /api/auth/me 200 in 1003ms
+ GET /api/auth/me 200 in 1531ms
+ GET /api/auth/me 200 in 995ms
+ POST /api/qr/create 201 in 3177ms
+ GET /qr-manager 200 in 81ms
+ GET /api/auth/me 200 in 797ms
+ GET /api/qr 200 in 1099ms
+ GET /api/auth/me 200 in 784ms
+ GET /api/qr 200 in 1309ms
+ GET /dashboard 200 in 65ms
+ GET /api/auth/me 200 in 1015ms
+ GET /api/analytics/overview 200 in 1196ms
+ GET /qr-customizer 200 in 71ms
+ GET /api/auth/me 200 in 675ms
+ GET /api/analytics/overview 200 in 1040ms
+ GET /api/auth/me 200 in 729ms
+ GET /api/auth/me 200 in 754ms
+ GET /campaigns 200 in 58ms
+ GET /analytics 200 in 68ms
+ GET /api/auth/me 200 in 874ms
+ GET /api/auth/me 200 in 809ms
+ GET /nfc-manager 200 in 64ms
+ GET /api/auth/me 200 in 3683ms
+ GET /api/nfc 200 in 4076ms
+ GET /api/auth/me 200 in 735ms
+ GET /qr-manager 200 in 57ms
+ GET /api/auth/me 200 in 725ms
+ GET /api/nfc 200 in 1053ms
+ GET /api/qr 200 in 1132ms
+ GET /api/auth/me 200 in 694ms
+ GET /api/auth/me 200 in 693ms
+ GET /api/qr 200 in 1494ms
+ GET /api/auth/me 200 in 715ms
+ GET /dashboard 200 in 64ms
+ GET /api/auth/me 200 in 865ms
+ GET /api/analytics/overview 200 in 1049ms
+ GET /api/auth/me 200 in 694ms
+ GET /api/analytics/overview 200 in 931ms
+ GET /campaigns 200 in 57ms
+ GET /api/auth/me 200 in 722ms
+ GET /api/auth/me 200 in 9573ms
+ GET /qr-customizer 200 in 57ms
+ GET /api/auth/me 200 in 793ms
+ GET /api/auth/me 200 in 701ms
+ GET /campaigns 200 in 77ms
+ GET /analytics 200 in 57ms
+ GET /api/auth/me 200 in 2868ms
+ GET /api/auth/me 200 in 2988ms
+ GET /api/auth/me 200 in 703ms
+ GET /api/auth/me 200 in 702ms
+ GET /nfc-manager 200 in 56ms
+ GET /qr-manager 200 in 59ms
+ GET /api/auth/me 200 in 1090ms
+ GET /api/nfc 200 in 1722ms
+ GET /api/auth/me 200 in 960ms
+ GET /api/qr 200 in 1492ms
+ GET /api/auth/me 200 in 711ms
+ GET /api/nfc 200 in 1066ms
+ GET /api/auth/me 200 in 793ms
+ GET /api/qr 200 in 1552ms
+ GET /dashboard 200 in 77ms
+ GET /api/auth/me 200 in 2862ms
+ GET /api/analytics/overview 200 in 3140ms
+ GET /api/auth/me 200 in 855ms
+ GET /api/analytics/overview 200 in 1040ms
+ GET /qr-customizer 200 in 62ms
+ GET /api/auth/me 200 in 795ms
+ GET /api/auth/me 200 in 709ms
+ GET /nfc-manager 200 in 62ms
+ GET /api/auth/me 200 in 813ms
+ GET /api/nfc 200 in 1160ms
+ GET /api/auth/me 200 in 698ms
+ GET /api/nfc 200 in 1055ms
+ ✓ Compiled / in 154ms
+ GET / 200 in 224ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 171ms
+ GET /dashboard 200 in 167ms
+ GET /api/auth/me 200 in 1722ms
+ GET /api/analytics/overview 200 in 2746ms
+ GET /qr-customizer 200 in 72ms
+ GET /api/auth/me 200 in 919ms
+ GET /campaigns 200 in 70ms
+ GET /api/auth/me 200 in 784ms
+ GET /api/auth/me 200 in 906ms
+ GET /qr-customizer 200 in 59ms
+ GET /api/auth/me 200 in 799ms
+ GET /api/auth/me 200 in 762ms
+ GET /api/auth/me 200 in 776ms
+ GET /campaigns 200 in 68ms
+ GET /api/auth/me 200 in 813ms
+ GET /analytics 200 in 72ms
+ GET /api/auth/me 200 in 713ms
+ GET /api/auth/me 200 in 729ms
+ GET /api/auth/me 200 in 707ms
+ GET /nfc-manager 200 in 62ms
+ GET /api/auth/me 200 in 823ms
+ GET /api/nfc 200 in 1170ms
+ GET /api/auth/me 200 in 708ms
+ GET /api/nfc 200 in 1065ms
+ GET /qr-manager 200 in 60ms
+ GET /api/auth/me 200 in 748ms
+ GET /api/qr 200 in 1140ms
+ GET /api/auth/me 200 in 697ms
+ GET /api/qr 200 in 1072ms
+ GET /qr-manager 200 in 144ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 294ms
+ GET /api/auth/me 200 in 846ms
+ GET /api/qr 200 in 1225ms
+ ✓ Compiled in 85ms
+ ✓ Compiled in 162ms
+ ✓ Compiled in 51ms
+ GET /api/qr 200 in 3518ms
+ ✓ Compiled in 43ms
+ GET /nfc-manager 200 in 190ms
+ GET /dashboard 200 in 68ms
+ GET /api/nfc 200 in 1342ms
+ GET /api/auth/me 200 in 1531ms
+ GET /api/auth/me 200 in 777ms
+ GET /api/nfc 200 in 1084ms
+ GET /api/analytics/overview 200 in 1680ms
+ GET /api/auth/me 200 in 700ms
+ GET /api/auth/me 200 in 745ms
+ GET /api/analytics/overview 200 in 1366ms
+ GET /qr-customizer 200 in 72ms
+ GET /api/auth/me 200 in 783ms
+ GET /api/auth/me 200 in 707ms
+ GET /campaigns 200 in 74ms
+ GET /api/auth/me 200 in 805ms
+ GET /api/auth/me 200 in 703ms
+ GET /analytics 200 in 147ms
+ GET /api/auth/me 200 in 705ms
+ GET /api/auth/me 200 in 707ms
+ GET /nfc-manager 200 in 72ms
+ GET /api/auth/me 200 in 886ms
+ GET /api/nfc 200 in 1160ms
+ GET /api/auth/me 200 in 706ms
+ GET /api/nfc 200 in 1091ms
+ ✓ Compiled in 539ms
+ GET /analytics 200 in 133ms
+ GET /api/auth/me 200 in 824ms
+ GET /api/auth/me 200 in 727ms
+ GET /dashboard 200 in 135ms
+ GET /api/auth/me 200 in 892ms
+ GET /api/analytics/overview 200 in 1098ms
+ GET /api/auth/me 200 in 727ms
+ GET /api/analytics/overview 200 in 937ms
+ ✓ Compiled /dashboard in 38ms
+ GET /dashboard 200 in 232ms
+ GET /dashboard 200 in 118ms
+ GET /dashboard 200 in 75ms
+ GET /dashboard 200 in 71ms
+ GET /dashboard 200 in 64ms
+ GET /dashboard 200 in 67ms
+ GET /dashboard 200 in 405ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 284ms
+ ✓ Compiled /nfc-manager in 39ms
+ GET /nfc-manager 200 in 127ms
+ ✓ Compiled /qr-manager in 39ms
+ GET /qr-manager 200 in 143ms
+ GET /api/auth/me 200 in 4312ms
+ GET /api/nfc 200 in 2185ms
+ GET /api/analytics/overview 200 in 5337ms
+ GET /api/auth/me 200 in 1112ms
+ GET /api/qr 200 in 1741ms
+ GET /api/auth/me 200 in 881ms
+ GET /api/nfc 200 in 1391ms
+ GET /api/auth/me 200 in 906ms
+ GET /api/qr 200 in 1539ms
+ GET /api/auth/me 200 in 816ms
+ ✓ Compiled /api/qr/[id]/export in 166ms
+ GET /api/qr/cmoycccm20000vuqgyy605rnq/export?format=png 200 in 1958ms
+ ✓ Compiled middleware in 1ms
+ GET /qr-manager 200 in 98ms
+ ✓ Compiled /api/qr/[id] in 114ms
+ DELETE /api/qr/cmoyc2952000fvu3kq3sax2rl 200 in 2110ms
+prisma:error 
+Invalid `__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$prisma$2e$ts__$5b$app$2d$route$5d$__$28$ecmascript$29$__["prisma"].qrCode.delete()` invocation in
+C:\Users\msdnl\Documents\New folder\trendwaves-smartconnect\.next\server\chunks\[root-of-the-server]__4b2c4987._.js:483:157
+
+  480 const user = await (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$auth$2e$ts__$5b$app$2d$route$5d$__$28$ecmascript$29$__["getAuthUser"])(request);
+  481 if (!user) return (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$api$2e$ts__$5b$app$2d$route$5d$__$28$ecmascript$29$__["fail"])("Unauthorized", 401);
+  482 const { id } = await context.params;
+→ 483 await __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$prisma$2e$ts__$5b$app$2d$route$5d$__$28$ecmascript$29$__["prisma"].qrCode.delete(
+An operation failed because it depends on one or more records that were required but not found. No record was found for a delete.
+ DELETE /api/qr/cmoyc2952000fvu3kq3sax2rl 500 in 909ms
+ ✓ Compiled middleware in 1ms
+ GET /qr-manager 200 in 78ms
+ ✓ Compiled in 44ms
+ ✓ Compiled middleware in 1ms
+ GET /qr-manager 200 in 135ms
+ GET /qr-manager 200 in 82ms
+ ✓ Compiled in 363ms
+ POST /api/qr/create 201 in 4165ms
+ ✓ Compiled in 547ms
+ PUT /api/qr/cmoyeta7w000bvuno8ovjetcj 200 in 2398ms
+ ✓ Compiled /qr-customizer in 39ms
+ GET /qr-customizer 200 in 135ms
+ GET /api/auth/me 200 in 982ms
+ GET /api/auth/me 200 in 1076ms
+ ✓ Compiled in 80ms
+ ✓ Compiled in 50ms
+ ✓ Compiled in 89ms
+ ✓ Compiled in 111ms
+ ✓ Compiled in 104ms
+ GET /qr-customizer 200 in 438ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 288ms
+ GET /api/auth/me 200 in 1668ms
+ GET /qr-customizer 200 in 160ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 301ms
+ GET /nfc-manager 200 in 145ms
+ GET /api/auth/me 200 in 1453ms
+ GET /api/auth/me 200 in 1741ms
+ GET /qr-manager 200 in 132ms
+ GET /api/auth/me 200 in 1525ms
+ GET /api/nfc 200 in 4507ms
+ GET /api/qr 200 in 1838ms
+ GET /api/auth/me 200 in 2001ms
+ GET /api/nfc 200 in 1291ms
+ GET /api/auth/me 200 in 867ms
+ GET /api/qr 200 in 1334ms
+ PUT /api/qr/cmoyd40ol0000vunodoudwguj 200 in 1297ms
+ ✓ Compiled in 76ms
+ ✓ Compiled in 87ms
+ ✓ Compiled in 86ms
+ ✓ Compiled in 70ms
+ GET /api/auth/me 200 in 2643ms
+ GET /api/qr 200 in 3634ms
+ ✓ Compiled in 53ms
+ ✓ Compiled in 54ms
+ ✓ Compiled in 49ms
+ ✓ Compiled in 97ms
+ GET /api/qr 200 in 4883ms
+ ✓ Compiled in 89ms
+ ✓ Compiled in 66ms
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 1122ms

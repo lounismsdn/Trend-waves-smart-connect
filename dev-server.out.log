@@ -1,0 +1,226 @@
+
+> trendwaves-smartconnect@0.1.0 dev
+> next dev --turbopack
+
+   ▲ Next.js 15.5.18 (Turbopack)
+   - Local:        http://localhost:3001
+   - Network:      http://192.168.1.9:3001
+   - Environments: .env.local, .env
+
+ ✓ Starting...
+Creating turbopack project {
+  dir: 'C:\\Users\\msdnl\\Documents\\New folder\\trendwaves-smartconnect',
+  testMode: true
+}
+ ✓ Compiled middleware in 82ms
+ ✓ Ready in 1186ms
+ ○ Compiling /login ...
+ ✓ Compiled /login in 2.2s
+ GET /login 200 in 2549ms
+ ✓ Compiled /favicon.ico in 207ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 517ms
+ ✓ Compiled /api/auth/login in 191ms
+ POST /api/auth/login 200 in 2238ms
+ ○ Compiling /dashboard ...
+ ✓ Compiled /dashboard in 1188ms
+ GET /dashboard 200 in 1257ms
+ GET /dashboard 200 in 111ms
+ ✓ Compiled /api/analytics/overview in 263ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 334ms
+ GET /api/auth/me 200 in 1052ms
+ GET /api/notifications 200 in 1659ms
+ GET /api/auth/me 200 in 772ms
+ GET /api/analytics/overview 200 in 2397ms
+ GET /api/notifications 200 in 834ms
+ GET /api/analytics/overview 200 in 1067ms
+ ○ Compiling /client ...
+ ✓ Compiled /client in 634ms
+ GET /client 200 in 911ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 287ms
+ ✓ Compiled /api/clients in 108ms
+ GET /api/notifications 200 in 742ms
+ GET /api/auth/me 200 in 757ms
+ GET /api/clients 200 in 1411ms
+ GET /api/auth/me 200 in 703ms
+ ✓ Compiled /api/analytics/client/[id] in 94ms
+ GET /api/analytics/client/cmoyc26mz0002vu3k2nafi9aw?range=30d 200 in 1914ms
+ ✓ Compiled / in 212ms
+ GET / 200 in 323ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 169ms
+ GET /dashboard 200 in 159ms
+ GET /login?next=%2Fdashboard 200 in 140ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 296ms
+ POST /api/auth/login 200 in 2196ms
+ GET /dashboard 200 in 87ms
+ GET /dashboard 200 in 138ms
+ GET /api/auth/me 200 in 1814ms
+ GET /api/notifications 200 in 1815ms
+ GET /api/analytics/overview 200 in 1989ms
+ GET /api/auth/me 200 in 880ms
+ GET /api/notifications 200 in 881ms
+ GET /api/analytics/overview 200 in 1126ms
+ ○ Compiling /qr-manager ...
+ ✓ Compiled /qr-manager in 581ms
+ GET /qr-manager 200 in 664ms
+ ✓ Compiled /api/qr in 142ms
+ GET /api/auth/me 200 in 814ms
+ GET /api/notifications 200 in 839ms
+ GET /api/qr 200 in 1323ms
+ GET /api/notifications 200 in 834ms
+ GET /api/auth/me 200 in 864ms
+ GET /api/qr 200 in 1406ms
+ ○ Compiling /nfc-manager ...
+ ✓ Compiled /nfc-manager in 526ms
+ GET /nfc-manager 200 in 607ms
+ ✓ Compiled /api/nfc in 468ms
+ GET /api/auth/me 200 in 954ms
+ GET /api/notifications 200 in 1333ms
+ GET /api/auth/me 200 in 808ms
+ GET /api/nfc 200 in 1958ms
+ GET /api/notifications 200 in 836ms
+ GET /api/nfc 200 in 1316ms
+ ✓ Compiled /api/nfc/verify in 142ms
+ POST /api/nfc/verify 200 in 1560ms
+ ✓ Compiled /api/nfc/write in 129ms
+ POST /api/nfc/write 500 in 1450ms
+ ✓ Compiled /api/nfc/[id]/lock in 118ms
+ POST /api/nfc/write 500 in 3788ms
+ POST /api/nfc/cmoyc29hp000kvu3kfki1gyqk/lock 200 in 6480ms
+ ✓ Compiled /client-portal in 451ms
+ GET /client-portal 200 in 545ms
+ GET /api/notifications 200 in 1166ms
+ GET /api/auth/me 200 in 1169ms
+ GET /api/qr 200 in 1858ms
+ GET /api/auth/me 200 in 883ms
+ GET /api/notifications 200 in 895ms
+ GET /api/qr 200 in 1430ms
+ GET /client 200 in 96ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 287ms
+ GET /api/auth/me 200 in 986ms
+ GET /api/notifications 200 in 1025ms
+ GET /api/clients 200 in 1731ms
+ GET /api/notifications 200 in 916ms
+ GET /api/auth/me 200 in 958ms
+ GET /api/auth/me 200 in 1104ms
+ GET /api/clients 200 in 1381ms
+ GET /api/auth/me 200 in 850ms
+ GET /api/analytics/client/cmoyc26mz0002vu3k2nafi9aw?range=30d 200 in 1262ms
+ GET /client-portal 200 in 85ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 337ms
+ GET /api/auth/me 200 in 917ms
+ GET /api/notifications 200 in 952ms
+ GET /api/qr 200 in 1387ms
+ GET /api/auth/me 200 in 831ms
+ GET /api/notifications 200 in 823ms
+ GET /api/qr 200 in 1097ms
+ GET /client 200 in 88ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 369ms
+ GET /api/notifications 200 in 1190ms
+ GET /api/auth/me 200 in 1196ms
+ GET /api/clients 200 in 1777ms
+ GET /api/notifications 200 in 779ms
+ GET /api/auth/me 200 in 781ms
+ GET /api/auth/me 200 in 720ms
+ GET /api/clients 200 in 1306ms
+ GET /api/auth/me 200 in 729ms
+ GET /api/analytics/client/cmoyc26mz0002vu3k2nafi9aw?range=30d 200 in 1175ms
+ GET /dashboard 200 in 86ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 321ms
+ GET /api/auth/me 200 in 2387ms
+ GET /api/notifications 200 in 2388ms
+ GET /api/analytics/overview 200 in 2578ms
+ ○ Compiling /analytics ...
+ ✓ Compiled /analytics in 566ms
+ GET /analytics 200 in 639ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 279ms
+ GET /api/auth/me 200 in 1379ms
+ GET /api/notifications 200 in 1474ms
+ GET /api/analytics/overview 200 in 1778ms
+ GET /dashboard 200 in 76ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 335ms
+ GET /api/auth/me 200 in 1336ms
+ GET /api/notifications 200 in 1410ms
+ GET /api/analytics/overview 200 in 1005ms
+ GET /api/auth/me 200 in 849ms
+ GET /client 200 in 92ms
+ GET /api/notifications 200 in 988ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 315ms
+ GET /api/auth/me 200 in 812ms
+ GET /api/analytics/overview 200 in 1399ms
+ GET /api/notifications 200 in 778ms
+ GET /api/auth/me 200 in 749ms
+ GET /api/clients 200 in 1439ms
+ GET /api/notifications 200 in 1073ms
+ GET /api/auth/me 200 in 712ms
+ GET /client 200 in 83ms
+ GET /api/notifications 200 in 853ms
+ GET /api/auth/me 200 in 826ms
+ GET /api/clients 200 in 1350ms
+ GET /api/notifications 200 in 872ms
+ GET /api/auth/me 200 in 896ms
+ GET /api/auth/me 200 in 842ms
+ GET /api/analytics/client/cmoyc26mz0002vu3k2nafi9aw?range=30d 200 in 1239ms
+ ○ Compiling /qr/customizer ...
+ ✓ Compiled /qr/customizer in 505ms
+ GET /qr/customizer 200 in 587ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 294ms
+ GET /api/notifications 200 in 850ms
+ GET /api/auth/me 200 in 932ms
+ GET /api/qr 200 in 1312ms
+ GET /api/notifications 200 in 738ms
+ GET /api/auth/me 200 in 833ms
+ GET /api/qr 200 in 1400ms
+ ✓ Compiled /api/qr/style-presets in 101ms
+ POST /api/qr/style-presets 201 in 2221ms
+ ✓ Compiled /api/qr/[id]/style in 136ms
+ PUT /api/qr/cmoyc2959000hvu3ksu661330/style 200 in 3865ms
+ PUT /api/qr/cmoyc2959000hvu3ksu661330/style 200 in 3529ms
+ GET /api/qr 200 in 2406ms
+ ✓ Compiled /api/qr/[id]/export in 146ms
+prisma:error 
+Invalid `tx.qrDesignVersion.create()` invocation in
+C:\Users\msdnl\Documents\New folder\trendwaves-smartconnect\.next\server\chunks\[root-of-the-server]__42dc2ea0._.js:855:38
+
+  852         }
+  853     }
+  854 });
+→ 855 await tx.qrDesignVersion.create(
+Unique constraint failed on the fields: (`qrCodeId`,`version`)
+ PUT /api/qr/cmoyc2959000hvu3ksu661330/style 500 in 2909ms
+ GET /api/qr 200 in 1531ms
+ PUT /api/qr/cmoyc2959000hvu3ksu661330/style 200 in 3591ms
+ GET /api/qr/cmoyc2959000hvu3ksu661330/export?format=svg 200 in 2431ms
+ GET /api/qr 200 in 1147ms
+ GET /api/qr/cmoyc2959000hvu3ksu661330/export?format=svg 200 in 1211ms
+ PUT /api/qr/cmoyc2959000hvu3ksu661330/style 200 in 1690ms
+ GET /api/qr/cmoyc2959000hvu3ksu661330/export?format=png 200 in 2512ms
+ GET /api/qr 200 in 1238ms
+ GET /api/qr/cmoyc2959000hvu3ksu661330/export?format=svg 200 in 1240ms
+ ✓ Compiled /campaigns in 498ms
+ GET /campaigns 200 in 581ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 290ms
+ ✓ Compiled /api/campaigns in 142ms
+ GET /api/auth/me 200 in 945ms
+ GET /api/notifications 200 in 954ms
+ GET /api/auth/me 200 in 1011ms
+ GET /api/campaigns 200 in 2141ms
+ GET /api/clients 200 in 2156ms
+ GET /api/notifications 200 in 1226ms
+ GET /api/clients 200 in 1623ms
+ GET /api/campaigns 200 in 1908ms
+ GET /analytics 200 in 100ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 324ms
+ GET /api/auth/me 200 in 858ms
+ GET /api/notifications 200 in 872ms
+ GET /api/notifications 200 in 762ms
+ GET /api/auth/me 200 in 775ms
+ GET /nfc-manager 200 in 89ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 279ms
+ GET /api/notifications 200 in 1080ms
+ GET /api/auth/me 200 in 1178ms
+ GET /api/nfc 200 in 1532ms
+ GET /api/notifications 200 in 716ms
+ GET /api/auth/me 200 in 701ms
+ GET /api/nfc 200 in 1088ms
+ ✓ Compiled /api/nfc/batch-write in 134ms
+ POST /api/nfc/batch-write 500 in 2271ms

@@ -1,0 +1,114 @@
+ ⚠ Port 3000 is in use by process 14332, using available port 3001 instead.
+
+[2m[63.53ms][22m [@tailwindcss/postcss] src\app\globals.css
+[2m[ 0.05ms][22m  [2m ↳ [22mQuick bail check
+[2m[18.57ms][22m  [2m ↳ [22mSetup compiler
+[2m[ 0.19ms][22m    [2m ↳ [22mPostCSS AST -> Tailwind CSS AST
+[2m[18.36ms][22m    [2m ↳ [22mCreate compiler
+[2m[ 0.17ms][22m  [2m ↳ [22mRegister full rebuild paths
+[2m[ 1.40ms][22m  [2m ↳ [22mSetup scanner
+[2m[13.60ms][22m  [2m ↳ [22mScan for candidates
+[2m[ 8.00ms][22m  [2m ↳ [22mRegister dependency messages
+[2m[17.73ms][22m  [2m ↳ [22mBuild utilities
+[2m[ 2.69ms][22m  [2m ↳ [22mTransform Tailwind CSS AST into PostCSS AST
+[2m[ 1.04ms][22m  [2m ↳ [22mUpdate PostCSS AST
+
+
+[2m[17.42ms][22m [@tailwindcss/postcss] src\app\globals.css
+[2m[ 0.01ms][22m  [2m ↳ [22mQuick bail check
+[2m[ 0.15ms][22m  [2m ↳ [22mRegister full rebuild paths
+[2m[15.51ms][22m  [2m ↳ [22mScan for candidates
+[2m[ 0.57ms][22m  [2m ↳ [22mRegister dependency messages
+[2m[ 0.33ms][22m  [2m ↳ [22mBuild utilities
+[2m[ 0.63ms][22m  [2m ↳ [22mUpdate PostCSS AST
+
+
+[2m[13.37ms][22m [@tailwindcss/postcss] src\app\globals.css
+[2m[ 0.01ms][22m  [2m ↳ [22mQuick bail check
+[2m[ 0.17ms][22m  [2m ↳ [22mRegister full rebuild paths
+[2m[10.98ms][22m  [2m ↳ [22mScan for candidates
+[2m[ 0.72ms][22m  [2m ↳ [22mRegister dependency messages
+[2m[ 0.37ms][22m  [2m ↳ [22mBuild utilities
+[2m[ 0.92ms][22m  [2m ↳ [22mUpdate PostCSS AST
+
+
+[2m[13.29ms][22m [@tailwindcss/postcss] src\app\globals.css
+[2m[ 0.00ms][22m  [2m ↳ [22mQuick bail check
+[2m[ 0.11ms][22m  [2m ↳ [22mRegister full rebuild paths
+[2m[ 9.37ms][22m  [2m ↳ [22mScan for candidates
+[2m[ 0.33ms][22m  [2m ↳ [22mRegister dependency messages
+[2m[ 0.20ms][22m  [2m ↳ [22mBuild utilities
+[2m[ 3.21ms][22m  [2m ↳ [22mUpdate PostCSS AST
+
+
+[2m[9.55ms][22m [@tailwindcss/postcss] src\app\globals.css
+[2m[0.00ms][22m  [2m ↳ [22mQuick bail check
+[2m[0.12ms][22m  [2m ↳ [22mRegister full rebuild paths
+[2m[7.97ms][22m  [2m ↳ [22mScan for candidates
+[2m[0.38ms][22m  [2m ↳ [22mRegister dependency messages
+[2m[0.21ms][22m  [2m ↳ [22mBuild utilities
+[2m[0.80ms][22m  [2m ↳ [22mUpdate PostCSS AST
+
+
+[2m[11.78ms][22m [@tailwindcss/postcss] src\app\globals.css
+[2m[ 0.00ms][22m  [2m ↳ [22mQuick bail check
+[2m[ 0.09ms][22m  [2m ↳ [22mRegister full rebuild paths
+[2m[10.41ms][22m  [2m ↳ [22mScan for candidates
+[2m[ 0.38ms][22m  [2m ↳ [22mRegister dependency messages
+[2m[ 0.19ms][22m  [2m ↳ [22mBuild utilities
+[2m[ 0.63ms][22m  [2m ↳ [22mUpdate PostCSS AST
+
+
+[2m[16.52ms][22m [@tailwindcss/postcss] src\app\globals.css
+[2m[ 0.01ms][22m  [2m ↳ [22mQuick bail check
+[2m[ 0.13ms][22m  [2m ↳ [22mRegister full rebuild paths
+[2m[13.79ms][22m  [2m ↳ [22mScan for candidates
+[2m[ 0.78ms][22m  [2m ↳ [22mRegister dependency messages
+[2m[ 0.66ms][22m  [2m ↳ [22mBuild utilities
+[2m[ 1.04ms][22m  [2m ↳ [22mUpdate PostCSS AST
+
+
+[2m[12.61ms][22m [@tailwindcss/postcss] src\app\globals.css
+[2m[ 0.00ms][22m  [2m ↳ [22mQuick bail check
+[2m[ 0.20ms][22m  [2m ↳ [22mRegister full rebuild paths
+[2m[10.77ms][22m  [2m ↳ [22mScan for candidates
+[2m[ 0.31ms][22m  [2m ↳ [22mRegister dependency messages
+[2m[ 0.19ms][22m  [2m ↳ [22mBuild utilities
+[2m[ 1.07ms][22m  [2m ↳ [22mUpdate PostCSS AST
+
+
+[2m[13.94ms][22m [@tailwindcss/postcss] src\app\globals.css
+[2m[ 0.00ms][22m  [2m ↳ [22mQuick bail check
+[2m[ 0.11ms][22m  [2m ↳ [22mRegister full rebuild paths
+[2m[12.60ms][22m  [2m ↳ [22mScan for candidates
+[2m[ 0.38ms][22m  [2m ↳ [22mRegister dependency messages
+[2m[ 0.19ms][22m  [2m ↳ [22mBuild utilities
+[2m[ 0.59ms][22m  [2m ↳ [22mUpdate PostCSS AST
+
+
+[2m[11.93ms][22m [@tailwindcss/postcss] src\app\globals.css
+[2m[ 0.00ms][22m  [2m ↳ [22mQuick bail check
+[2m[ 0.09ms][22m  [2m ↳ [22mRegister full rebuild paths
+[2m[10.36ms][22m  [2m ↳ [22mScan for candidates
+[2m[ 0.43ms][22m  [2m ↳ [22mRegister dependency messages
+[2m[ 0.26ms][22m  [2m ↳ [22mBuild utilities
+[2m[ 0.72ms][22m  [2m ↳ [22mUpdate PostCSS AST
+
+
+[2m[13.28ms][22m [@tailwindcss/postcss] src\app\globals.css
+[2m[ 0.00ms][22m  [2m ↳ [22mQuick bail check
+[2m[ 0.09ms][22m  [2m ↳ [22mRegister full rebuild paths
+[2m[10.67ms][22m  [2m ↳ [22mScan for candidates
+[2m[ 0.86ms][22m  [2m ↳ [22mRegister dependency messages
+[2m[ 0.51ms][22m  [2m ↳ [22mBuild utilities
+[2m[ 1.05ms][22m  [2m ↳ [22mUpdate PostCSS AST
+
+
+[2m[12.92ms][22m [@tailwindcss/postcss] src\app\globals.css
+[2m[ 0.00ms][22m  [2m ↳ [22mQuick bail check
+[2m[ 0.13ms][22m  [2m ↳ [22mRegister full rebuild paths
+[2m[11.48ms][22m  [2m ↳ [22mScan for candidates
+[2m[ 0.37ms][22m  [2m ↳ [22mRegister dependency messages
+[2m[ 0.21ms][22m  [2m ↳ [22mBuild utilities
+[2m[ 0.67ms][22m  [2m ↳ [22mUpdate PostCSS AST
+
